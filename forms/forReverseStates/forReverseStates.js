@@ -1,6 +1,6 @@
 let states = ["Nebraska", "Iowa", "Minnesota", "South Dakota", "North Dakota", "Kansas", "Oklahoma", "Texas"]
 
+let reversedStates = states.reverse();
 for(i = 0; i < states.length; i++) {
-    let reversedStates = states.reverse();
     console.log(reversedStates[i])
     }

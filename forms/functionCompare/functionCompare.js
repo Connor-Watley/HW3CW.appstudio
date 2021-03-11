@@ -8,7 +8,7 @@ function Compare(pass, confirmPass) {
 
 let samePasswords = Compare(passWord, confirmPassWord)
 
-if(samePasswords = 0) {
+if(samePasswords === 0) {
 console.log("The passwords are the same")
 } else {
     console.log("The passwords are not the same")

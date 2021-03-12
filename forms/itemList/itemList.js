@@ -4,3 +4,7 @@ let price = [10.00, 14.00, 20.00, 30.00, 32.00, 27.00, 12.00 , 27.00 ]
 
 
 
+
+Listgroup1.onclick=function(){
+  
+}

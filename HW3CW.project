@@ -46,16 +46,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "itemList",
-            "itemList.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "wishList",
-            "wishList.json"
+            "dogStore",
+            "dogStore.json"
           ]
         }
       ],

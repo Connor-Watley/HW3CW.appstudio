@@ -1,3 +1,4 @@
+/*
 let cities = []
 let moreData = "yes"
 let i = 0
@@ -12,5 +13,5 @@ while(i < cities.length) {
     console.log(cities[i])
     i++
     }
-
+*/
    

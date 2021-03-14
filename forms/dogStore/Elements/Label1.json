@@ -1,7 +1,7 @@
 {
   "!type": "Label_bs4",
   "appearance": "primary",
-  "backgroundColor": "",
+  "backgroundColor": "white",
   "borderRadius": "0",
   "bottom": "auto",
   "cached_js": "",

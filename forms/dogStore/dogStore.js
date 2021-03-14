@@ -18,3 +18,7 @@ Button1.onclick=function(){
 }
 
 
+
+dogStore.onhide=function(){
+  
+}

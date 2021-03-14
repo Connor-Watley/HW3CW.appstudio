@@ -1,3 +1,4 @@
+/*
 let passWord = prompt("Enter your password")
 let confirmPassWord = prompt("Confirm your password")
 
@@ -13,3 +14,4 @@ console.log("The passwords are the same")
 } else {
     console.log("The passwords are not the same")
     }
+*/
